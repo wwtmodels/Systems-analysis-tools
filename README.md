@@ -10,5 +10,5 @@ The Main developers are: Vicente Monje, [Xavier Flores-Alsina](https://github.co
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![DATA RECON](https://img.shields.io/badge/DOWNLOAD%20ADM1-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-Analysys-Tools/releases/download/v1/influent.reconcilitation.github.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-Analysys-Tools/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-Analysys-Tools) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/files/8754570/influent.reconcilitation.github.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-toolss/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
 
