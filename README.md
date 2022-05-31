@@ -12,7 +12,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20WWTP%20Data%20Reconciliation-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/releases/download/V1/influent.reconcilitation.github.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-tools/V1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
 
-<strong>1. Influent fractionation (ADM) </strong>  
+<strong>2. Influent fractionation (ADM) </strong>  
 
 The Main developers are: Vicente Monje, [Xavier Flores-Alsina](https://github.com/xfalsina) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
