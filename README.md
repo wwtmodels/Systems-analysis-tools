@@ -20,5 +20,5 @@ The Main developers are: Vicente Monje, [Xavier Flores-Alsina](https://github.co
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20WWTP%20Influent%20fractionation-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/releases/download/V1/influent.fractionation.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-tools/V2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20WWTP%20Influent%20fractionation-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/releases/download/V2/influent.fractionation.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-tools/V2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
 
