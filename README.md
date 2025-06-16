@@ -31,4 +31,4 @@ The Main developers are: Quinten Mariën, Xavier Flores-Alsina, Umair Aslam, Kri
 
 This version of the model is adapated to be run in Matlab 2022b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM%20Fractionator-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/releases/download/V2/influent.fractionation.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-tools/V2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20WWTP%20hfMBR%20Boostrap-990000?style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools/releases/download/V3/Bootstrap.hfMBR.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Systems-analysis-tools/V3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Systems-analysis-tools) 
